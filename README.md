@@ -12,3 +12,4 @@ cmake .. && make -j7
 (Has been tested on Ubuntu 20.04)
 
 # Screenshot
+![Screenshot from 2023-02-22 20-31-36](https://user-images.githubusercontent.com/8120108/220620527-0d1cf12e-5b8c-436b-8675-52d787031535.png)
